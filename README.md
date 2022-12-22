@@ -1,4 +1,4 @@
-# hangman-java
+# Hangman Java Terminal Game
 Making simple hangman terminal game (with animal name input) using Java
 
 Animal list: {
